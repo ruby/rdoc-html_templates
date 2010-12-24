@@ -1,4 +1,4 @@
-= rdoc_html_templates
+= rdoc-html_templates
 
 * Project Page: http://rubyforge.org/projects/rdoc
 * Documentation: http://rdoc.rubyforge.org/rdoc_html_templates
